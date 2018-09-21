@@ -1,8 +1,8 @@
 {
-    "id": "1c9bd2a3-fc7f-4058-8f03-7670a02af058",
+    "id": "69f6e44f-9e23-431d-98bd-18a06752ce74",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "fireball_object",
+    "name": "enemy_hard",
     "eventList": [
         
     ],
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "04bc9106-de23-49e4-b6de-f0cbd62524ed",
+    "spriteId": "d9e98ea8-ddba-4a84-af2a-1e258f0b61d1",
     "visible": true
 }

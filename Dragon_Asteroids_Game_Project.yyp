@@ -55,18 +55,18 @@
             }
         },
         {
-            "Key": "17a82762-f267-4024-bf4e-aa716bb41b58",
+            "Key": "217ed780-93d2-4db6-8958-a9ecbf0fbef9",
             "Value": {
-                "id": "2d5650f6-25d8-4149-81bf-1b405a0b4d96",
-                "resourcePath": "objects\\object4\\object4.yy",
+                "id": "13e688b2-c8da-4b5a-b6c1-fb329fd5a830",
+                "resourcePath": "objects\\fire_ball\\fire_ball.yy",
                 "resourceType": "GMObject"
             }
         },
         {
-            "Key": "1c9bd2a3-fc7f-4058-8f03-7670a02af058",
+            "Key": "23e40fc5-a74d-4f7d-ac50-60070ae09118",
             "Value": {
-                "id": "e72e32c9-f949-4218-b4ac-fcedb287f91d",
-                "resourcePath": "objects\\fireball_object\\fireball_object.yy",
+                "id": "b06f42e3-a823-4d14-854e-2e236f13431b",
+                "resourcePath": "objects\\enemy_medium\\enemy_medium.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -143,11 +143,27 @@
             }
         },
         {
+            "Key": "69f6e44f-9e23-431d-98bd-18a06752ce74",
+            "Value": {
+                "id": "7a18011a-4303-4d68-a580-cb2eff15d281",
+                "resourcePath": "objects\\enemy_hard\\enemy_hard.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "6cabf7f7-046d-40ce-a52d-ba9588e06672",
             "Value": {
                 "id": "24e5c590-fcf8-4987-93d9-fb8588d4304f",
                 "resourcePath": "views\\6cabf7f7-046d-40ce-a52d-ba9588e06672.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6cdfff93-6e0e-441a-9bae-dd22e35500a7",
+            "Value": {
+                "id": "d031f6c1-0b89-46e7-be6b-a48567c15de6",
+                "resourcePath": "objects\\enemy_basic\\enemy_basic.yy",
+                "resourceType": "GMObject"
             }
         },
         {

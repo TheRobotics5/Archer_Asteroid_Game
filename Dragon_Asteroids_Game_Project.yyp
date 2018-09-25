@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "16a6c109-2a0f-4d65-baa9-1fd7df31ae69",
+            "Value": {
+                "id": "e7eab89a-f477-4d77-a5ef-2941e5aa706a",
+                "resourcePath": "sprites\\tree_stump\\tree_stump.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "217ed780-93d2-4db6-8958-a9ecbf0fbef9",
             "Value": {
                 "id": "13e688b2-c8da-4b5a-b6c1-fb329fd5a830",
@@ -68,14 +76,6 @@
                 "id": "b06f42e3-a823-4d14-854e-2e236f13431b",
                 "resourcePath": "objects\\enemy_medium\\enemy_medium.yy",
                 "resourceType": "GMObject"
-            }
-        },
-        {
-            "Key": "2c53fe16-9265-4b49-9df7-07c4d84e3795",
-            "Value": {
-                "id": "9976e018-8712-4708-88a0-38e2922d9367",
-                "resourcePath": "paths\\path0\\path0.yy",
-                "resourceType": "GMPath"
             }
         },
         {
@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "8e3a19df-b7e3-4a5d-ab0e-994f071ee15d",
+            "Value": {
+                "id": "16bfda7c-eeb1-4413-8554-46c53d40c4bc",
+                "resourcePath": "paths\\Enemy_Path_1\\Enemy_Path_1.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "93fe6709-c2e3-4112-9179-7fa919ebf0c2",
             "Value": {
                 "id": "74e39caf-1a9a-4d97-9a1e-2d24f4a6ee0a",
@@ -258,7 +266,7 @@
             "Key": "cc2aa567-529d-4140-abb2-765de1532d78",
             "Value": {
                 "id": "573855a7-8262-4dbb-b708-21ef55a96344",
-                "resourcePath": "sprites\\Medium_Enemey\\Medium_Enemey.yy",
+                "resourcePath": "sprites\\Medium_Enemy\\Medium_Enemy.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -274,7 +282,7 @@
             "Key": "d7184ffc-1607-46f9-9faf-0fbf3643f2b8",
             "Value": {
                 "id": "1f12e52d-5822-45bc-9d91-a424a560b7ff",
-                "resourcePath": "sprites\\Basic_Enemey\\Basic_Enemey.yy",
+                "resourcePath": "sprites\\Basic_Enemy\\Basic_Enemy.yy",
                 "resourceType": "GMSprite"
             }
         },

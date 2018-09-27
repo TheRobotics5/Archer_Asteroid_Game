@@ -5,13 +5,23 @@
     "name": "Tree_Object",
     "eventList": [
         {
-            "id": "d2e0b308-4442-4e18-9a27-1e028df82755",
+            "id": "e60c476c-0628-492d-9247-dead0b9fcab4",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 38,
-            "eventtype": 5,
+            "collisionObjectId": "217ed780-93d2-4db6-8958-a9ecbf0fbef9",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "3e9ee02e-4892-4f93-9868-1710f26e7208"
+        },
+        {
+            "id": "7bc2d117-3f3f-48f5-88c2-b33970dabd01",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "93fe6709-c2e3-4112-9179-7fa919ebf0c2",
+            "enumb": 0,
+            "eventtype": 4,
             "m_owner": "3e9ee02e-4892-4f93-9868-1710f26e7208"
         }
     ],

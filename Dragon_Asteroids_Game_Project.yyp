@@ -143,11 +143,27 @@
             }
         },
         {
+            "Key": "458ea092-cbfc-499c-9a56-a31e851b7a5d",
+            "Value": {
+                "id": "307b6544-c77c-419a-8326-be5235332315",
+                "resourcePath": "objects\\enemy_arrow\\enemy_arrow.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "592a4449-ceca-4cc1-9267-d89c12110377",
             "Value": {
                 "id": "2b0dfb99-aebc-4a7e-b2d8-fa48c2d6d8cb",
                 "resourcePath": "views\\592a4449-ceca-4cc1-9267-d89c12110377.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5a2d6c5d-2692-4824-aab1-36bf1e597fdd",
+            "Value": {
+                "id": "454a5f48-3981-4269-a281-cb8fe3c4df25",
+                "resourcePath": "sprites\\Menu\\Menu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -207,14 +223,6 @@
             }
         },
         {
-            "Key": "7fec53a4-bf42-4aa4-b235-c9060f8afd96",
-            "Value": {
-                "id": "89a1cef8-57ca-45c3-a32c-e2ef7ff11e54",
-                "resourcePath": "sprites\\water\\water.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "872133cb-33cf-4589-bed0-dfc3375ea9e3",
             "Value": {
                 "id": "6230585d-b2cb-4a86-8f66-871068f6e849",
@@ -252,6 +260,14 @@
                 "id": "b963f9a4-ecba-4571-a1a0-8eecacbeb7ab",
                 "resourcePath": "rooms\\Game\\Game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "a32261ae-8d34-4ace-bf7d-093ae6117fb0",
+            "Value": {
+                "id": "059ac0a3-0753-4359-90c0-7cf66ab828f6",
+                "resourcePath": "objects\\Menu_Button\\Menu_Button.yy",
+                "resourceType": "GMObject"
             }
         },
         {

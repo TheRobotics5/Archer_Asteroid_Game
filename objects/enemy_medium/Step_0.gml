@@ -1,4 +1,8 @@
-/// @DnDAction : YoYo Games.Instances.Set_Alarm
+/// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
-/// @DnDHash : 33E985E4
-alarm_set(0, 30);
+/// @DnDHash : 5576FA76
+/// @DnDArgument : "var" "hp"
+if(hp == 0)
+{
+
+}

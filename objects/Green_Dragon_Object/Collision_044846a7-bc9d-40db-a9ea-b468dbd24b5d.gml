@@ -1,14 +1,10 @@
-/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
-/// @DnDHash : 27CD133E
-
-
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 6D2BAB01
-instance_destroy();
-
-/// @DnDAction : YoYo Games.Rooms.Next_Room
-/// @DnDVersion : 1
-/// @DnDHash : 2D83E351
-room_goto_next();
+/// @DnDHash : 2500F7B0
+/// @DnDApplyTo : 93fe6709-c2e3-4112-9179-7fa919ebf0c2
+/// @DnDArgument : "health" "-34"
+/// @DnDArgument : "health_relative" "1"
+with(Green_Dragon_Object) {
+if(!variable_instance_exists(id, "__dnd_health")) __dnd_health = 0;
+__dnd_health += real(-34);
+}

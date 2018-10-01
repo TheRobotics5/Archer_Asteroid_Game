@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "0d31ef0a-5b0e-4b48-980a-e5e61ee901fa",
+            "Value": {
+                "id": "add51051-a22f-4539-a1af-cf3628a9d3dc",
+                "resourcePath": "objects\\healthbar\\healthbar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0d9f4079-da95-49fd-bf42-fbc44e0c2861",
             "Value": {
                 "id": "ed495c9b-796f-4b29-be9d-32b2dac03e76",

@@ -1,6 +1,6 @@
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
-/// @DnDHash : 2500F7B0
+/// @DnDHash : 0F1678FB
 /// @DnDApplyTo : 93fe6709-c2e3-4112-9179-7fa919ebf0c2
 /// @DnDArgument : "health" "-34"
 /// @DnDArgument : "health_relative" "1"

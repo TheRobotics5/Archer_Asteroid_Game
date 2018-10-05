@@ -5,12 +5,12 @@
     "name": "Menu_Button",
     "eventList": [
         {
-            "id": "ce38ebf8-2c5c-4844-91e8-7d9f35c49d22",
+            "id": "f950c6da-d252-4116-8afc-5b43e5ddce1d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 53,
+            "enumb": 4,
             "eventtype": 6,
             "m_owner": "a32261ae-8d34-4ace-bf7d-093ae6117fb0"
         }

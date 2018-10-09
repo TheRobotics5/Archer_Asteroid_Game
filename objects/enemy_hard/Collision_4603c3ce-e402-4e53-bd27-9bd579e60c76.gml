@@ -20,6 +20,17 @@ if(hp == 5)
 	/// @DnDArgument : "direction" "135,90,45,180,0,225,270,315"
 	direction = choose(135,90,45,180,0,225,270,315);
 
+	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+	/// @DnDVersion : 1
+	/// @DnDHash : 4BD24763
+	/// @DnDParent : 1B7231C6
+	/// @DnDArgument : "x" "irandom_range(50, 100)"
+	/// @DnDArgument : "x_relative" "1"
+	/// @DnDArgument : "y" "irandom_range(50, 100)"
+	/// @DnDArgument : "y_relative" "1"
+	x += irandom_range(50, 100);
+	y += irandom_range(50, 100);
+
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
 	/// @DnDHash : 0EBF8466
@@ -48,6 +59,17 @@ if(hp == 4)
 	/// @DnDParent : 778519FD
 	/// @DnDArgument : "direction" "135,90,45,180,0,225,270,315"
 	direction = choose(135,90,45,180,0,225,270,315);
+
+	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+	/// @DnDVersion : 1
+	/// @DnDHash : 3885BE9F
+	/// @DnDParent : 778519FD
+	/// @DnDArgument : "x" "irandom_range(50, 100)"
+	/// @DnDArgument : "x_relative" "1"
+	/// @DnDArgument : "y" "irandom_range(50, 100)"
+	/// @DnDArgument : "y_relative" "1"
+	x += irandom_range(50, 100);
+	y += irandom_range(50, 100);
 
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
@@ -78,6 +100,17 @@ if(hp == 3)
 	/// @DnDArgument : "direction" "135,90,45,180,0,225,270,315"
 	direction = choose(135,90,45,180,0,225,270,315);
 
+	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+	/// @DnDVersion : 1
+	/// @DnDHash : 002153C4
+	/// @DnDParent : 06BCB3BC
+	/// @DnDArgument : "x" "irandom_range(50, 100)"
+	/// @DnDArgument : "x_relative" "1"
+	/// @DnDArgument : "y" "irandom_range(50, 100)"
+	/// @DnDArgument : "y_relative" "1"
+	x += irandom_range(50, 100);
+	y += irandom_range(50, 100);
+
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
 	/// @DnDHash : 034D64B3
@@ -106,6 +139,17 @@ if(hp == 2)
 	/// @DnDParent : 725D9677
 	/// @DnDArgument : "direction" "135,90,45,180,0,225,270,315"
 	direction = choose(135,90,45,180,0,225,270,315);
+
+	/// @DnDAction : YoYo Games.Movement.Jump_To_Point
+	/// @DnDVersion : 1
+	/// @DnDHash : 0710E727
+	/// @DnDParent : 725D9677
+	/// @DnDArgument : "x" "irandom_range(50, 100)"
+	/// @DnDArgument : "x_relative" "1"
+	/// @DnDArgument : "y" "irandom_range(50, 100)"
+	/// @DnDArgument : "y_relative" "1"
+	x += irandom_range(50, 100);
+	y += irandom_range(50, 100);
 
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1

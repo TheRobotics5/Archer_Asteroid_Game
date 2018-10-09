@@ -16,3 +16,11 @@ speed = 3.5;
 /// @DnDArgument : "expr" "2"
 /// @DnDArgument : "var" "hp"
 hp = 2;
+
+/// @DnDAction : YoYo Games.Instances.Sprite_Scale
+/// @DnDVersion : 1
+/// @DnDHash : 1C2608A1
+/// @DnDArgument : "xscale" "2.6"
+/// @DnDArgument : "yscale" "2.6"
+image_xscale = 2.6;
+image_yscale = 2.6;

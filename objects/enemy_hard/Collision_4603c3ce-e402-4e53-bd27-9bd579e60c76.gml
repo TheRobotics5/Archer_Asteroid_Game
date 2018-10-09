@@ -24,12 +24,12 @@ if(hp == 5)
 	/// @DnDVersion : 1
 	/// @DnDHash : 4BD24763
 	/// @DnDParent : 1B7231C6
-	/// @DnDArgument : "x" "irandom_range(50, 100)"
+	/// @DnDArgument : "x" "irandom_range(50, 100)+25"
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "irandom_range(50, 100)"
+	/// @DnDArgument : "y" "irandom_range(50, 100)+25"
 	/// @DnDArgument : "y_relative" "1"
-	x += irandom_range(50, 100);
-	y += irandom_range(50, 100);
+	x += irandom_range(50, 100)+25;
+	y += irandom_range(50, 100)+25;
 
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
@@ -64,12 +64,12 @@ if(hp == 4)
 	/// @DnDVersion : 1
 	/// @DnDHash : 3885BE9F
 	/// @DnDParent : 778519FD
-	/// @DnDArgument : "x" "irandom_range(50, 100)"
+	/// @DnDArgument : "x" "irandom_range(50, 100)+25"
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "irandom_range(50, 100)"
+	/// @DnDArgument : "y" "irandom_range(50, 100)+25"
 	/// @DnDArgument : "y_relative" "1"
-	x += irandom_range(50, 100);
-	y += irandom_range(50, 100);
+	x += irandom_range(50, 100)+25;
+	y += irandom_range(50, 100)+25;
 
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
@@ -104,12 +104,12 @@ if(hp == 3)
 	/// @DnDVersion : 1
 	/// @DnDHash : 002153C4
 	/// @DnDParent : 06BCB3BC
-	/// @DnDArgument : "x" "irandom_range(50, 100)"
+	/// @DnDArgument : "x" "irandom_range(50, 10)+25"
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "irandom_range(50, 100)"
+	/// @DnDArgument : "y" "irandom_range(50, 100)+25"
 	/// @DnDArgument : "y_relative" "1"
-	x += irandom_range(50, 100);
-	y += irandom_range(50, 100);
+	x += irandom_range(50, 10)+25;
+	y += irandom_range(50, 100)+25;
 
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1
@@ -144,12 +144,12 @@ if(hp == 2)
 	/// @DnDVersion : 1
 	/// @DnDHash : 0710E727
 	/// @DnDParent : 725D9677
-	/// @DnDArgument : "x" "irandom_range(50, 100)"
+	/// @DnDArgument : "x" "irandom_range(50, 100)+25"
 	/// @DnDArgument : "x_relative" "1"
-	/// @DnDArgument : "y" "irandom_range(50, 100)"
+	/// @DnDArgument : "y" "irandom_range(50, 100)+25"
 	/// @DnDArgument : "y_relative" "1"
-	x += irandom_range(50, 100);
-	y += irandom_range(50, 100);
+	x += irandom_range(50, 100)+25;
+	y += irandom_range(50, 100)+25;
 
 	/// @DnDAction : YoYo Games.Common.Exit_Event
 	/// @DnDVersion : 1

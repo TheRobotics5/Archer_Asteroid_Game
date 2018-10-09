@@ -1,18 +1,18 @@
 {
-    "id": "0d31ef0a-5b0e-4b48-980a-e5e61ee901fa",
+    "id": "0415b8dd-e132-496d-8b46-2beec357af3e",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "healthbar",
+    "name": "controller",
     "eventList": [
         {
-            "id": "89a92d11-e512-4ccc-af1c-068b4696b71f",
+            "id": "629ef8da-8714-4031-b2a6-44afae5ba9e1",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "0d31ef0a-5b0e-4b48-980a-e5e61ee901fa"
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "0415b8dd-e132-496d-8b46-2beec357af3e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",

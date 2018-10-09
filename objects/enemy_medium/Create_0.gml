@@ -13,9 +13,9 @@ speed = 3.5;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 02C3DFD2
-/// @DnDArgument : "expr" "2"
+/// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "hp"
-hp = 2;
+hp = 1;
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Scale
 /// @DnDVersion : 1

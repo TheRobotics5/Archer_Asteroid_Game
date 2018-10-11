@@ -4,3 +4,10 @@
 /// @DnDArgument : "room" "Title_Screen"
 /// @DnDSaveInfo : "room" "66e3e4b6-3028-47a0-8c9c-dff2386c68ce"
 room_goto(Title_Screen);
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 037B8620
+/// @DnDArgument : "expr" "1"
+/// @DnDArgument : "var" "select"
+select = 1;

@@ -11,3 +11,8 @@ room_goto(Title_Screen);
 /// @DnDArgument : "expr" "1"
 /// @DnDArgument : "var" "select"
 select = 1;
+
+/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 1D7D0CE0
+audio_stop_all();

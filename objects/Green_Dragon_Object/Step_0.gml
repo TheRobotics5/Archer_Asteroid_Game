@@ -9,6 +9,12 @@ var l44A3B277_0 = __dnd_health <= 0;
 }
 if(l44A3B277_0)
 {
+	/// @DnDAction : YoYo Games.Audio.Stop_All_Audio
+	/// @DnDVersion : 1
+	/// @DnDHash : 3F6C49CC
+	/// @DnDParent : 44A3B277
+	audio_stop_all();
+
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
 	/// @DnDVersion : 1
 	/// @DnDHash : 1E2F1212

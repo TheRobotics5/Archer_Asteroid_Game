@@ -17,3 +17,11 @@ timeline_index = healing;
 timeline_loop = 1;
 timeline_running = 1;
 }
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 2A7548A3
+/// @DnDArgument : "soundid" "background_music"
+/// @DnDArgument : "loop" "1"
+/// @DnDSaveInfo : "soundid" "bac87a00-6e0a-454c-8409-869afe27e404"
+audio_play_sound(background_music, 0, 1);

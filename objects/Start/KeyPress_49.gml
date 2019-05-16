@@ -19,6 +19,13 @@ if(select == 1)
 	/// @DnDParent : 303057F6
 	/// @DnDArgument : "var" "select"
 	select = 0;
+
+	/// @DnDAction : YoYo Games.Common.Set_Global
+	/// @DnDVersion : 1
+	/// @DnDHash : 02D11B06
+	/// @DnDParent : 303057F6
+	/// @DnDArgument : "var" "multiplayer"
+	global.multiplayer = 0;
 }
 
 /// @DnDAction : YoYo Games.Common.Exit_Event

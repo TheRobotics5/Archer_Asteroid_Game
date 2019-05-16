@@ -9,9 +9,9 @@ if(select == 1)
 	/// @DnDVersion : 1
 	/// @DnDHash : 239933D2
 	/// @DnDParent : 7041C126
-	/// @DnDArgument : "room" "Multiplayer"
-	/// @DnDSaveInfo : "room" "2ddf9dce-8ddf-4f0b-8da8-27c581db641e"
-	room_goto(Multiplayer);
+	/// @DnDArgument : "room" "Singleplayer"
+	/// @DnDSaveInfo : "room" "a2fb4ad9-7393-44cc-9b7c-32dfc9519f73"
+	room_goto(Singleplayer);
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
@@ -19,6 +19,14 @@ if(select == 1)
 	/// @DnDParent : 7041C126
 	/// @DnDArgument : "var" "select"
 	select = 0;
+
+	/// @DnDAction : YoYo Games.Common.Set_Global
+	/// @DnDVersion : 1
+	/// @DnDHash : 4F06EB62
+	/// @DnDParent : 7041C126
+	/// @DnDArgument : "value" "1"
+	/// @DnDArgument : "var" "multiplayer"
+	global.multiplayer = 1;
 }
 
 /// @DnDAction : YoYo Games.Common.Exit_Event

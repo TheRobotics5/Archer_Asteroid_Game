@@ -111,14 +111,6 @@
             }
         },
         {
-            "Key": "2ddf9dce-8ddf-4f0b-8da8-27c581db641e",
-            "Value": {
-                "id": "05c00e86-e7a6-4c4d-96a4-c0061650d17e",
-                "resourcePath": "rooms\\Multiplayer\\Multiplayer.yy",
-                "resourceType": "GMRoom"
-            }
-        },
-        {
             "Key": "308b8b78-33bc-40f8-9b7f-883fe5fa6f97",
             "Value": {
                 "id": "2003a47f-aff2-423f-9f3f-1425a1f8e3aa",
@@ -156,14 +148,6 @@
                 "id": "c7f295a3-9f89-43c4-8734-dca5e2d8c4b9",
                 "resourcePath": "views\\3cbae488-f9a7-42e2-b3e1-65996267d7e1.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "3e0993da-d06a-405c-9693-427763da627b",
-            "Value": {
-                "id": "e9f4b652-2b92-49eb-a99a-dbee5f8828ec",
-                "resourcePath": "sprites\\tree_stump\\tree_stump.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -215,14 +199,6 @@
             }
         },
         {
-            "Key": "5e685199-3770-41e2-8fda-923ae0224042",
-            "Value": {
-                "id": "7082b346-a872-48af-9adc-975942ac6401",
-                "resourcePath": "sprites\\Rock\\Rock.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "61babf7e-f886-443d-bc92-59202687e8b3",
             "Value": {
                 "id": "7695cd35-da16-451b-a35b-0789611b6749",
@@ -260,6 +236,14 @@
                 "id": "d031f6c1-0b89-46e7-be6b-a48567c15de6",
                 "resourcePath": "objects\\enemy_basic\\enemy_basic.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "6ed065ab-e380-48ff-9ce8-cf98c1eb8010",
+            "Value": {
+                "id": "182452c7-6515-4a88-b497-7cbabf986203",
+                "resourcePath": "tilesets\\tileset0\\tileset0.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -380,6 +364,14 @@
                 "id": "a55c8fc2-1c2d-400b-bda1-bfe51575b43c",
                 "resourcePath": "views\\a73e3ad0-9f19-4b76-b967-25e641cbeee4.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "beb800cd-2a2f-4d37-b28b-46763f04f5e0",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -508,6 +500,14 @@
                 "id": "2b111140-fb33-4c5a-a299-d78a98e621f6",
                 "resourcePath": "objects\\START\\START.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "3e2e2852-a392-47f0-9e2b-3005e8dde954",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
